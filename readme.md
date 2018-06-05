@@ -1,3 +1,10 @@
+This simple application provides a platform to students to ask questions from teachers in the class. Students can ask questions anonymously as well. Teachers will be notified when a question being asked. 
+
+Configurations: Usual Laravel configurations. 
+Additional Configurations : After tables are migrated your DB, make sure you update the list of names for classrooms. Take a look at the Locations table. You have to insert the list of classrooms at your institute. Simple as that!
+
+Read more about Laravel:
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
